@@ -1,8 +1,7 @@
 """Rayleigh–Rice mixture estimation and minimum-error classification.
 
 The fixed-point updates follow Eq. (20) of Zanetti, Bovolo and Bruzzone,
-IEEE Transactions on Image Processing 24(12), 5004–5016 (2015), and the
-accompanying MATLAB implementation by Massimo Zanetti (2017).
+IEEE Transactions on Image Processing 24(12), 5004–5016 (2015).
 Requires NumPy 1.22+ and SciPy.
 """
 
